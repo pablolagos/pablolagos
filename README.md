@@ -31,7 +31,7 @@ I worked on developing a cyber security platform that was successfully used by t
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
   <img alt="Amazon ECS" src="https://img.shields.io/badge/-Amazon ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
-  <img alt="Oracle Cloud" src="https://img.shields.io/badge/-Oraccle Cloud ECS-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="Oracle Cloud" src="https://img.shields.io/badge/-Oracle Cloud ECS-F80000?style=flat-square&logo=oracle&logoColor=white" />
 </p>
 
 
