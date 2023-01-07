@@ -32,6 +32,11 @@ I worked on developing a cyber security platform that was successfully used by t
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
   <img alt="Amazon ECS" src="https://img.shields.io/badge/-Amazon ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" />
   <img alt="Oracle Cloud" src="https://img.shields.io/badge/-Oracle Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img alt="NginX" src="https://img.shields.io/badge/-NginX-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="Lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
+  <img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+  <img alt="Stripe" src="https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
 </p>
 
 
