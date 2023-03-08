@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-My name is **Pablo Lagos** working as **Sr. Software Engineer @ MonkOS**. I am an Experienced **Backend Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in Golang, PHP, Javascript/jQuery/Bootstrap, HTML/CSS, MySQL, MongoDB, Redis, LevelDB, Bash** Strong engineering professional with more than 20 years of experiencie working in the IT Industry.
+My name is **Pablo Lagos** working as **Sr. Software Engineer @ MonkOS**. 
+
+I am a **Backend Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in Golang, PHP, Javascript/jQuery/Bootstrap, HTML/CSS, MySQL, MongoDB, Redis, LevelDB, Bash** Strong engineering professional with more than 20 years of experiencie working in the IT Industry.
 
 I have worked implementing web protocols (http, https servers, clients & proxies), REST APIs, gRPC. I also have worked with cryptography: AES, TLS, and
 different Hashing methods. My experience with cloud providers includes AWS, GCP, DigitalOcean, and Oracle Cloud.
 
 I don't only use Github, but most of my projects are stored in private repositories. 
 
-For a long time I have worked in cyber security systems developing application protection systems and analyzing code for potential vulnerabilities.
 
-I worked on developing a cyber security platform that was successfully used by the government blocking more than 1 million attacks per hour.
 
 <h3>Things I code with</h3>
 <p>
