@@ -52,8 +52,8 @@ Vist my **[Blog](https://medium.com/@pabloandreslagosmaraboli)**
 <!-- - 👯 I’m looking to collaborate on open source/commercial projects
  - 🤔 I’m looking for help with digital marketing to drive traffic to my blog -->
 - 💬 Ask me about **Linux backend programming**
-- 📫 How to reach me:
-  [![Linkedin: pablolagosm](https://img.shields.io/badge/-Pablo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablolagosm/)](https://www.linkedin.com/in/pablolagosm/)
+<!-- - 📫 How to reach me:
+  [![Linkedin: pablolagosm](https://img.shields.io/badge/-Pablo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablolagosm/)](https://www.linkedin.com/in/pablolagosm/) -->
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pablolagos)](https://github.com/pablolagos/github-profile-trophy)
