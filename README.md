@@ -40,9 +40,9 @@ I don't only use Github, but most of my projects are stored in private repositor
 </p>
 
 
-Vist my **[Blog](https://medium.com/@pabloandreslagosmaraboli)**
+<!-- Vist my **[Blog](https://medium.com/@pabloandreslagosmaraboli)**
 
-[![Linkedin: pablolagosm](https://img.shields.io/badge/-Pablo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablolagosm/)](https://www.linkedin.com/in/pablolagosm/)
+[![Linkedin: pablolagosm](https://img.shields.io/badge/-Pablo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablolagosm/)](https://www.linkedin.com/in/pablolagosm/) -->
 [![GitHub Pablo](https://img.shields.io/github/followers/pablolagos?label=follow&style=social)](https://github.com/pablolagos)
 
 ---
